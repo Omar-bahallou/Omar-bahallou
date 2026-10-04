@@ -205,9 +205,9 @@ Technology club focused on developing students' technical skills through worksho
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-bahallou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-bahallou&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
@@ -282,7 +282,7 @@ My goal is to become a strong **Cybersecurity & Network Security Engineer**, com
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/omar-bahallou/">
+<a href="https://www.linkedin.com/in/omar-bahallou-23026b337/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
