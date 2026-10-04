@@ -1,138 +1,303 @@
-# Hi there, I'm Mahyudeen Shahid! 👋
+# Hi there, I'm OMAR BAHALLOU! 👋
 
 <!-- Theme-Sensitive Header Banner -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Mahyudeen Shahid Hero Banner" src="readmefile/dark.svg" width="100%">
+  <img alt="Omar BL Hero Banner" src="readmefile/dark.svg" width="100%">
 </picture>
 
 <br/>
 
 ## 🚀 About Me
-I’m **Mahyudeen Shahid**, a Software Engineering student, **Full-Stack Web Developer**, and **React Native App Developer**. I build high-performance products that go well beyond simple landing pages — immersive, interactive web experiences powered by **GSAP, Framer Motion, Three.js, and Spline**, and cross-platform mobile apps for **Android and iOS** from a single React Native codebase.
 
-On the web I work with **React, Next.js, the MERN stack, and Supabase**, pairing creative frontend work with solid backend engineering to ship scalable full-stack solutions. On mobile I bring the same mindset to **React Native** — smooth animations, clean native-feeling UI, and shared business logic with my web projects. I’m also passionate about **AI and automation**, building AI agents and workflows with tools like **n8n**, and I’ve deployed applications across Netlify, Vercel, DigitalOcean, AWS, Google Cloud, Azure, and Hostinger.
+I’m **OMAR BAHALLOU**, a **Networks, Cloud & Cybersecurity student** passionate about network infrastructure, system security, ethical hacking, and cybersecurity.
 
-> 💡 *"Every error is a lesson and every crash is an opportunity to rebuild stronger."*
+I enjoy building and experimenting with secure network environments, analyzing vulnerabilities, automating security tasks, and developing practical cybersecurity solutions. My work combines **network administration, Linux, cybersecurity, cloud technologies, scripting, and security monitoring**.
 
-- 🌐 **Web:** Full-stack apps with React, Next.js, Node.js & Supabase — with motion and 3D where it matters.
-- 📱 **Mobile:** Cross-platform Android & iOS apps with React Native.
-- 🤖 **AI & Automation:** AI agents and n8n workflows that remove repetitive work.
-- 🎓 **Education:** B.S. in Software Engineering, Pakistan.
-- 💬 **Ask me about:** Creative development, full-stack architectures, React Native apps, or automated AI agent workflows.
-- ✉️ **Contact:** [mahyudeenjutt@gmail.com](mailto:mahyudeenjutt@gmail.com)
-- 🌐 **Portfolio:** [mahyudeen.netlify.app](https://mahyudeen.netlify.app)
+I’m particularly interested in **network defense, penetration testing, CTF challenges, intrusion detection, infrastructure security, and security automation**. I also enjoy working with virtualized laboratories using **GNS3 and VMware** to simulate realistic enterprise network environments.
+
+> 💡 *"Security is not a product, but a continuous process of learning, testing, and improving."*
+
+* 🌐 **Networks:** Network administration, TCP/IP, routing, switching, VLANs, DNS, DHCP & network troubleshooting.
+* 🔐 **Cybersecurity:** Network security, vulnerability analysis, penetration testing, IDS/IPS & security monitoring.
+* 🐧 **Systems:** Linux administration, Bash scripting, system hardening & server configuration.
+* 🧪 **Cybersecurity Labs:** CTFs, TryHackMe, Web Security Academy, GNS3 & VMware.
+* 🛡️ **Security Project:** Enterprise network protection system against DoS and HTTP Loop attacks using **Snort 3, iptables, Python & Flask**.
+* ☁️ **Cloud & Virtualization:** Cloud fundamentals, virtual machines, Docker and infrastructure security.
+* 🐍 **Programming:** Python, Bash, JavaScript & scripting for automation.
+* 🎓 **Education:** Bachelor in **Networks, Cloud & Cybersecurity**.
+* 🎯 **Career Goal:** Cybersecurity / Network Security / SOC / Cloud Security.
+* 💬 **Ask me about:** Networking, Linux, cybersecurity labs, CTFs, network security or security automation.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-10B981?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D9488?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-34D399?style=flat-square&logo=python&logoColor=white)
+### 🌐 Networking
 
-### 🖥️ Frontend & Creative
-![React](https://img.shields.io/badge/React-10B981?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D9488?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-34D399?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-10B981?style=flat-square&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-0D9488?style=flat-square&logo=spline&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0EA5E9?style=flat-square\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1E40AF?style=flat-square\&logo=cisco\&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-0284C7?style=flat-square\&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-0369A1?style=flat-square\&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-0EA5E9?style=flat-square\&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0284C7?style=flat-square\&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0369A1?style=flat-square\&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0F172A?style=flat-square\&logo=gns3\&logoColor=white)
 
-### 📱 Mobile App Development
-![React Native](https://img.shields.io/badge/React_Native-10B981?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0D9488?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-34D399?style=flat-square&logo=apple&logoColor=white)
+### 🔐 Cybersecurity
 
-### ⚙️ Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-34D399?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D9488?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-10B981?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square\&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-B91C1C?style=flat-square\&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-EF4444?style=flat-square\&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-991B1B?style=flat-square\&logo=linux\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0F766E?style=flat-square\&logo=wireshark\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-7C3AED?style=flat-square\&logoColor=white)
 
-### 🗄️ Databases & BaaS
-![MongoDB](https://img.shields.io/badge/MongoDB-34D399?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D9488?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0D9488?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-34D399?style=flat-square&logo=supabase&logoColor=white)
+### 🐧 Systems & Virtualization
 
-### 🤖 AI & Automation
-![n8n](https://img.shields.io/badge/n8n-10B981?style=flat-square&logo=n8n&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-34D399?style=flat-square&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
 
-### ☁️ DevOps & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D9488?style=flat-square&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-10B981?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0D9488?style=flat-square&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-34D399?style=flat-square&logo=digitalocean&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-10B981?style=flat-square&logo=hostinger&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D9488?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+### 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### 🛡️ Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat-square\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square\&logo=metasploit\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square\&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-7C3AED?style=flat-square\&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-334155?style=flat-square\&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square\&logo=owasp\&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Cloud](https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square\&logo=icloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
-## 🏅 Holopin Badges
-[![An image of @mahyudeenshahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahyudeenshahid)](https://holopin.io/@mahyudeenshahid)
+## 🛡️ Featured Cybersecurity Project
+
+### 🔥 Enterprise Network Protection System
+
+A practical open-source security solution designed to detect and mitigate **DoS and HTTP Loop attacks** in an enterprise network environment.
+
+**Architecture:**
+
+```text
+                 ┌──────────────────────┐
+                 │      Kali Linux      │
+                 │   Attacker Nodes     │
+                 └──────────┬───────────┘
+                            │
+                     GNS3 / VMware
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │    Ubuntu Server     │
+                 │      Layer 2         │
+                 │       Bridge         │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+          Snort 3        iptables       Python
+        Detection       Mitigation    Automation
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │   Flask Dashboard    │
+                 │ Real-Time Monitoring │
+                 └──────────────────────┘
+```
+
+**Technologies:**
+
+* 🛡️ Snort 3
+* 🔥 iptables
+* 🐍 Python
+* 🐚 Bash
+* 🌐 Flask
+* 🐧 Ubuntu Server
+* 🧪 Kali Linux
+* 🖥️ GNS3
+* 💻 VMware
+* 📊 SQLite
+
+**Detection capabilities:**
+
+* SYN Flood
+* UDP Flood
+* HTTP Loop attacks
+* Real-time alerting
+* Automated IP blocking
+* Security event monitoring
 
 ---
 
-## 📈 GitHub Stats & Metrics
+## 🧪 Cybersecurity & CTF
 
-<!-- Sleek contribution activity graph with theme sensitivity -->
+I’m actively developing my offensive and defensive cybersecurity skills through practical labs and CTF challenges.
+
+### Areas of Interest
+
+* 🌐 Web Security
+* 🔍 Digital Forensics & Incident Response
+* 🔐 Cryptography
+* 🧬 Reverse Engineering
+* 💣 Binary Exploitation
+* 🕵️ OSINT
+* 🐧 Linux Privilege Escalation
+* 🌐 Network Security
+* 🛡️ Blue Team / Defensive Security
+
+### Platforms
+
+* TryHackMe
+* PortSwigger Web Security Academy
+* SecDojo
+* NetAcad
+* CTF competitions & cybersecurity labs
+
+---
+
+## 🏆 Achievements & Activities
+
+### 🛡️ CyberDune
+
+**Training Manager — Cybersecurity Club**
+
+Working on cybersecurity learning activities, workshops, practical labs and knowledge sharing.
+
+### 🧩 Team Hidden Investigation
+
+**CTF Member**
+
+Participating in cybersecurity challenges involving web security, cryptography, OSINT, reverse engineering and miscellaneous challenges.
+
+### 🔐 Cryptography
+
+Interested in cryptographic concepts and practical cryptography challenges through CTF environments.
+
+### 🌐 Alpha Byte Network
+
+Technology club focused on developing students' technical skills through workshops, competitions, cybersecurity activities and technology projects.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
-    <img alt="Mahyudeen's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
-  </picture>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
-<!-- Side-by-Side Stats Cards with theme sensitivity -->
-<p align="left">
-  <!-- GitHub Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=MahyudeenShahid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
-  </picture>
-  
-  <!-- Top Languages Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=MahyudeenShahid&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
-  </picture>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
 </p>
 
-<!-- Streak Stats with theme sensitivity -->
-<p align="left">
-  <a href="https://mahyudeen.netlify.app" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MahyudeenShahid&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
-    </picture>
-  </a>
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</p>
+
+---
+
+## 🏅 Certifications & Learning
+
+Currently developing skills in:
+
+* 🎓 Networks & Cloud
+* 🔐 Cybersecurity
+* 🛡️ Network Defense
+* 🐧 Linux Administration
+* 🌐 Web Security
+* ☁️ Cloud Security
+* 🧪 Penetration Testing
+* 🚨 Security Monitoring
+* 🐍 Python Security Automation
+
+---
+
+## 🎯 2026 Goals
+
+```text
+[████████████████████]  Cybersecurity
+[██████████████████░░]  Network Security
+[████████████████░░░░]  Cloud Security
+[██████████████░░░░░░]  Penetration Testing
+[██████████████░░░░░░]  CTF Skills
+[████████████░░░░░░░░]  DevSecOps
+```
+
+My goal is to become a strong **Cybersecurity & Network Security Engineer**, combining networking, cloud infrastructure, offensive security and defensive security.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>If you like this profile README, please consider leaving a star to show your support!</b> ⭐
+  ⭐ <b>If you find my projects interesting, consider giving them a star!</b> ⭐
 </p>
 
----
+<p align="center">
+  <b>Built with curiosity, secured with knowledge, and powered by Linux. 🐧🔐</b>
+</p>
 
 <p align="center">
-  Designed, thought, and developed with 💚 by <a href="https://mahyudeen.netlify.app/" target="_blank"><b>Mahyudeen Shahid</b></a><br/>
-  <sub>Every line of code crafted for immersive, interactive experiences — on the web and on mobile.</sub>
+  <sub>© 2026 Omar BL — Networks, Cloud & Cybersecurity</sub>
 </p>
