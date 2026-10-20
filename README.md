@@ -1,7 +1,7 @@
+
 # Hi there, I'm OMAR BAHALLOU! 👋
 
 <!-- Theme-Sensitive Header Banner -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
@@ -20,16 +20,16 @@ I’m particularly interested in **network defense, penetration testing, CTF cha
 
 > 💡 *"Security is not a product, but a continuous process of learning, testing, and improving."*
 
-* 🌐 **Networks:** Network administration, TCP/IP, routing, switching, VLANs, DNS, DHCP & network troubleshooting.
-* 🔐 **Cybersecurity:** Network security, vulnerability analysis, penetration testing, IDS/IPS & security monitoring.
-* 🐧 **Systems:** Linux administration, Bash scripting, system hardening & server configuration.
-* 🧪 **Cybersecurity Labs:** CTFs, TryHackMe, Web Security Academy, GNS3 & VMware.
-* 🛡️ **Security Project:** Enterprise network protection system against DoS and HTTP Loop attacks using **Snort 3, iptables, Python & Flask**.
-* ☁️ **Cloud & Virtualization:** Cloud fundamentals, virtual machines, Docker and infrastructure security.
-* 🐍 **Programming:** Python, Bash, JavaScript & scripting for automation.
-* 🎓 **Education:** Bachelor in **Networks, Cloud & Cybersecurity**.
-* 🎯 **Career Goal:** Cybersecurity / Network Security / SOC / Cloud Security.
-* 💬 **Ask me about:** Networking, Linux, cybersecurity labs, CTFs, network security or security automation.
+- 🌐 **Networks:** Network administration, TCP/IP, routing, switching, VLANs, DNS, DHCP & network troubleshooting.
+- 🔐 **Cybersecurity:** Network security, vulnerability analysis, penetration testing, IDS/IPS & security monitoring.
+- 🐧 **Systems:** Linux administration, Bash scripting, system hardening & server configuration.
+- 🧪 **Cybersecurity Labs:** CTFs, TryHackMe, Web Security Academy, GNS3 & VMware.
+- 🛡️ **Security Project:** Enterprise network protection system against DoS and HTTP Loop attacks using **Snort 3, iptables, Python & Flask**.
+- ☁️ **Cloud & Virtualization:** Cloud fundamentals, virtual machines, Docker and infrastructure security.
+- 🐍 **Programming:** Python, Bash, JavaScript & scripting for automation.
+- 🎓 **Education:** Bachelor in **Networks, Cloud & Cybersecurity**.
+- 🎯 **Career Goal:** Cybersecurity / Network Security / SOC / Cloud Security.
+- 💬 **Ask me about:** Networking, Linux, cybersecurity labs, CTFs, network security or security automation.
 
 ---
 
@@ -37,57 +37,55 @@ I’m particularly interested in **network defense, penetration testing, CTF cha
 
 ### 🌐 Networking
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0EA5E9?style=flat-square\&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1E40AF?style=flat-square\&logo=cisco\&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing-0284C7?style=flat-square\&logoColor=white)
-![Switching](https://img.shields.io/badge/Switching-0369A1?style=flat-square\&logoColor=white)
-![VLAN](https://img.shields.io/badge/VLAN-0EA5E9?style=flat-square\&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-0284C7?style=flat-square\&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-0369A1?style=flat-square\&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-0F172A?style=flat-square\&logo=gns3\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0EA5E9?style=flat-square&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1E40AF?style=flat-square&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-0284C7?style=flat-square&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-0369A1?style=flat-square&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-0EA5E9?style=flat-square&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0284C7?style=flat-square&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0369A1?style=flat-square&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0F172A?style=flat-square&logo=gns3&logoColor=white)
 
 ### 🔐 Cybersecurity
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square\&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-B91C1C?style=flat-square\&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-EF4444?style=flat-square\&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-991B1B?style=flat-square\&logo=linux\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-0F766E?style=flat-square\&logo=wireshark\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-7C3AED?style=flat-square\&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-B91C1C?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-EF4444?style=flat-square&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-991B1B?style=flat-square&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0F766E?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-7C3AED?style=flat-square&logoColor=white)
 
 ### 🐧 Systems & Virtualization
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square\&logo=vmware\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ### 💻 Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🛡️ Security Tools
 
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat-square\&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square\&logo=metasploit\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square\&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-7C3AED?style=flat-square\&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-334155?style=flat-square\&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square\&logo=owasp\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-7C3AED?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-334155?style=flat-square&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
-![Cloud](https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square\&logo=icloud\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square&logo=icloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -100,54 +98,54 @@ A practical open-source security solution designed to detect and mitigate **DoS 
 **Architecture:**
 
 ```text
-                 ┌──────────────────────┐
-                 │      Kali Linux      │
-                 │   Attacker Nodes     │
-                 └──────────┬───────────┘
-                            │
-                     GNS3 / VMware
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │    Ubuntu Server     │
-                 │      Layer 2         │
-                 │       Bridge         │
-                 └──────────┬───────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-          Snort 3        iptables       Python
-        Detection       Mitigation    Automation
-             │              │              │
-             └──────────────┼──────────────┘
-                            ▼
-                 ┌──────────────────────┐
-                 │   Flask Dashboard    │
-                 │ Real-Time Monitoring │
-                 └──────────────────────┘
+                  ┌──────────────────────┐
+                  │      Kali Linux      │
+                  │   Attacker Nodes     │
+                  └──────────┬───────────┘
+                             │
+                       GNS3 / VMware
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │    Ubuntu Server     │
+                  │      Layer 2         │
+                  │       Bridge         │
+                  └──────────┬───────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+           Snort 3        iptables       Python
+         Detection       Mitigation    Automation
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                  ┌──────────────────────┐
+                  │   Flask Dashboard    │
+                  │ Real-Time Monitoring │
+                  └──────────────────────┘
 ```
 
 **Technologies:**
 
-* 🛡️ Snort 3
-* 🔥 iptables
-* 🐍 Python
-* 🐚 Bash
-* 🌐 Flask
-* 🐧 Ubuntu Server
-* 🧪 Kali Linux
-* 🖥️ GNS3
-* 💻 VMware
-* 📊 SQLite
+- 🛡️ Snort 3
+- 🔥 iptables
+- 🐍 Python
+- 🐚 Bash
+- 🌐 Flask
+- 🐧 Ubuntu Server
+- 🧪 Kali Linux
+- 🖥️ GNS3
+- 💻 VMware
+- 📊 SQLite
 
 **Detection capabilities:**
 
-* SYN Flood
-* UDP Flood
-* HTTP Loop attacks
-* Real-time alerting
-* Automated IP blocking
-* Security event monitoring
+- SYN Flood
+- UDP Flood
+- HTTP Loop attacks
+- Real-time alerting
+- Automated IP blocking
+- Security event monitoring
 
 ---
 
@@ -157,23 +155,23 @@ I’m actively developing my offensive and defensive cybersecurity skills throug
 
 ### Areas of Interest
 
-* 🌐 Web Security
-* 🔍 Digital Forensics & Incident Response
-* 🔐 Cryptography
-* 🧬 Reverse Engineering
-* 💣 Binary Exploitation
-* 🕵️ OSINT
-* 🐧 Linux Privilege Escalation
-* 🌐 Network Security
-* 🛡️ Blue Team / Defensive Security
+- 🌐 Web Security
+- 🔍 Digital Forensics & Incident Response
+- 🔐 Cryptography
+- 🧬 Reverse Engineering
+- 💣 Binary Exploitation
+- 🕵️ OSINT
+- 🐧 Linux Privilege Escalation
+- 🌐 Network Security
+- 🛡️ Blue Team / Defensive Security
 
 ### Platforms
 
-* TryHackMe
-* PortSwigger Web Security Academy
-* SecDojo
-* NetAcad
-* CTF competitions & cybersecurity labs
+- TryHackMe
+- PortSwigger Web Security Academy
+- SecDojo
+- NetAcad
+- CTF competitions & cybersecurity labs
 
 ---
 
@@ -204,11 +202,16 @@ Technology club focused on developing students' technical skills through worksho
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-bahallou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-bahallou&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Omar-bahallou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Omar Bahallou GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-bahallou&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Omar Bahallou Most Used Languages"
+    height="180"
+  />
 </p>
 
 ---
@@ -216,9 +219,10 @@ Technology club focused on developing students' technical skills through worksho
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=Omar-bahallou&theme=tokyonight&hide_border=true"
+    alt="Omar Bahallou GitHub Streak"
+  />
 </p>
 
 ---
@@ -226,9 +230,11 @@ Technology club focused on developing students' technical skills through worksho
 ## 📈 Contribution Activity
 
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-bahallou&theme=tokyo-night&hide_border=true" width="100%" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-bahallou&theme=tokyo-night&hide_border=true"
+    alt="Omar Bahallou GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
@@ -236,9 +242,21 @@ Technology club focused on developing students' technical skills through worksho
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Omar-bahallou/Omar-bahallou/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Omar-bahallou/Omar-bahallou/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Omar Bahallou GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Omar-bahallou/Omar-bahallou/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
@@ -247,15 +265,15 @@ Technology club focused on developing students' technical skills through worksho
 
 Currently developing skills in:
 
-* 🎓 Networks & Cloud
-* 🔐 Cybersecurity
-* 🛡️ Network Defense
-* 🐧 Linux Administration
-* 🌐 Web Security
-* ☁️ Cloud Security
-* 🧪 Penetration Testing
-* 🚨 Security Monitoring
-* 🐍 Python Security Automation
+- 🎓 Networks & Cloud
+- 🔐 Cybersecurity
+- 🛡️ Network Defense
+- 🐧 Linux Administration
+- 🌐 Web Security
+- ☁️ Cloud Security
+- 🧪 Penetration Testing
+- 🚨 Security Monitoring
+- 🐍 Python Security Automation
 
 ---
 
@@ -277,15 +295,18 @@ My goal is to become a strong **Cybersecurity & Network Security Engineer**, com
 ## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Omar-bahallou">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/omar-bahallou-23026b337/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/Omar-bahallou">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-bahallou-23026b337/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 
 ---
