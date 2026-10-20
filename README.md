@@ -232,7 +232,7 @@ Technology club focused on developing students' technical skills through worksho
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-bahallou&theme=tokyo-night&hide_border=true"
-    alt="Omar Bahallou GitHub Contribution Activity"
+    alt="Omar Bahallou's GitHub Contribution Activity Graph"
     width="100%"
   />
 </p>
